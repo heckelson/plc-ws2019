@@ -17,20 +17,20 @@ int gcd( int a , int b ) {
 ```
 
 ### Funktional (Haskell)
-```
+```haskell
     gcd a b
     | a == b = a
     | a > b ......
     ...
 ```
 ### Logisch (Prolog)
-```
+```prolog
     A(x,y)
 ```
 ## Programmierstile
 unterscheiden sich auch in den Sprachen
 Bsp: Java imperativ vs. funktional
-```
+```java
 for ( Iterator<int> it = /*usw*/);  
 p1.stream().filter(p -> p.age > 30).forEach(p -> System.out.println(p.name));
 ```
