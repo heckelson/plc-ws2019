@@ -7,7 +7,7 @@ Bsp: In C++ kann, muss man aber nicht Objekte schreiben.
 
 ## Beispiele für Programmiersprachen
 ### Prozedural (C):
-```
+```C
 int gcd( int a , int b ) {
         while ( a != b) {
             // ...
