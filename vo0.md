@@ -30,11 +30,10 @@ int gcd( int a , int b ) {
 ## Programmierstile
 unterscheiden sich auch in den Sprachen
 Bsp: Java imperativ vs. funktional
-
-for ( Iterator<int> it = /*usw*/);
-
+```
+for ( Iterator<int> it = /*usw*/);  
 p1.stream().filter(p -> p.age > 30).forEach(p -> System.out.println(p.name));
-
+```
 ## Paradigmen
 ### Parallele Programmierung
  * soll Performance erhöhen
