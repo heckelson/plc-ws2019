@@ -1,4 +1,4 @@
-# A smol ANTLR v4 Interpreter for arithmetic expressions
+# A ~smol~ small ANTLR v4 Interpreter for arithmetic expressions
 
 ## Generating the required files
 1. Put the `antlr-4.7.1-complete.jar` into a folder with the `.g4` file and the `readGrammar.sh` script.
